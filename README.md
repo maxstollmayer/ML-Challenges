@@ -1,1 +1,1 @@
-# ML-Challenges
+# Machine Learning Challenges
