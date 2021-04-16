@@ -22,4 +22,4 @@ wissml16@gmail.com
 max.stolly@gmail.com
 
 
-work hard pray hard
+> work hard, pray hard
