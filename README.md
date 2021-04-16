@@ -7,9 +7,7 @@ This is a library and workingground for solutions to the problems of the course 
 ## Problem 1: The mysterious Machine
 handed in on 16.04.
 
-solution lies on main branch in the folder \Challenge-1
-
-you can find further informations in the corresponding readme
+Our solution lies in the folder [\Challenge-1.](/Challenge-1), where you can find further information.
 
 ## Team:
 **To The Mooners** 🚀🌕
