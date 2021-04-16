@@ -6,7 +6,7 @@ Handed in: 16.04. ~12:00
 
 ## Solution
 
-The solution can be found in our [notebook.](Challenge-1-notebook.ipynb)
+The solution can be found in our [notebook.](Challenge-1-Notebook.ipynb)
 
 Our predictions can be found in [ToTheMooners_prediction.csv.](ToTheMooners_prediction.csv)
 
