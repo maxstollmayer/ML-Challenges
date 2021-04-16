@@ -1,6 +1,6 @@
 # Machine Learning Challenges
 
-This is a library and workingground for solutions to the problems of the course of "Mathematics of Machine Learning" by Prof. Petersen. (https://ufind.univie.ac.at/de/course.html?lv=250042&semester=2021S)
+This is a library and workingground for solutions to the problems of the course "Mathematics of Machine Learning" by Prof. Petersen. (https://ufind.univie.ac.at/de/course.html?lv=250042&semester=2021S)
 
 
 
