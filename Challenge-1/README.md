@@ -8,7 +8,7 @@ Handed in: 16.04. ~12:00
 
 Our solution can be found in [Challenge-1-Notebook.ipynb](Challenge-1-Notebook.ipynb) and the predictions can be found in [ToTheMooners_prediction.csv.](ToTheMooners_prediction.csv)
 
-In the jupyter notebook we documented our process, where we first did some data analysis and data processing on the given training set, explored a simple classifier, compared it to standard classifiers from the scikit learn library and finally defined our classifier as an ensemble model of three of the best classifiers in this comparison with optimized hyperparameters using a cross-validation routine. Last our classifier looks for heavily diluted data and predicts those as 0, independently of the ensemble model prediction.
+In the jupyter notebook we documented our process, where we first did some data analysis and data processing on the given training set, explored a simple classifier, compared it to standard classifiers from the scikit learn library and finally defined our classifier as an ensemble model of three of the best classifiers in this comparison with optimized hyperparameters using a cross-validation routine. Last our classifier looks for outliers and predicts those as 0, independently of the ensemble model prediction.
 
 Feedback is highly appreciated!
 
