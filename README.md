@@ -9,6 +9,11 @@ handed in on 16.04.
 
 Our solution lies in the folder [Challenge-1](/Challenge-1), where you can find further information.
 
+## Problem 2: The freezing Fritz
+handed in on 07.05.
+
+Our solution lies in the folder [Challenge-2](/Challenge-2), where you can find further information.
+
 ## Team:
 **To The Mooners** 🚀🌕
 
