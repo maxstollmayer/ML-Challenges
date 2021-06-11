@@ -34,8 +34,10 @@ After obtaining an 100% accuracy we wanted to have some fun and tried another ap
 Problems that arose with this type of generative adversarial network is the very long training time to even get reasonable results (we trained on one middle class GPU).
 We sadly were not able to fully execute our plan, so we just present some of the more interesting results of the CycleGan.
 
-The extraction of the faces can be found in [face_extraction.ipynb](face_extraction.ipynb). The process --- insert rest ---.
-In [petersen2smiley.ipynb](petersen2smiley.ipynb) some examples of the Cyclegan process can be found.
+The extraction of the faces can be found in [face_extraction.ipynb](face_extraction.ipynb).
+The rest of the process and some results are displayed in [petersen2smiley.ipynb](petersen2smiley.ipynb). For the training the above mentioned librarys were used.
+
+We hope that this will be received as well-intended as it was meant!
 
 
 
