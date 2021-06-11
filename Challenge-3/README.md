@@ -2,7 +2,7 @@
 
 Deadline: 11.06. 18:00 
 
-Handed in: 
+Handed in: 11.06. 13:00
 
 ## Solution
 
