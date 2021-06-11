@@ -14,6 +14,11 @@ handed in on 07.05.
 
 Our solution lies in the folder [Challenge-2](/Challenge-2), where you can find further information.
 
+## Problem 3: Facial Expression Classification
+handed in on 11.06.
+
+Our solution lies in the folder [Challenge-3](/Challenge-3), where you can find further information.
+
 ## Team:
 **To The Mooners** 🚀🌕
 
